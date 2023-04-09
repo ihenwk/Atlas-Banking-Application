@@ -3,6 +3,7 @@ A personal banking Spring Boot Application that allows users to view their bank 
 
 ___
 ## Tech Stack 
+- Java
 - Spring Web
 - Maven
 - Spring Data JPA
