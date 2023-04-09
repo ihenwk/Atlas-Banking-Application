@@ -5,6 +5,8 @@ ___
 ## Tech Stack 
 - Java
 - Spring Web
+- Rest Template
+- Postman
 - Maven
 - Spring Data JPA
 - MySQL
