@@ -5,8 +5,8 @@ import com.ihe.AtlasBankingUsers.entity.Users;
 public interface UserService {
 
     public Users searchUsersByUserId(int userId);
-    public boolean updateUserBalance(int id, double increment, double balance);
+    public boolean updateUserBalance(int userId, double increment, double balance);
     Users loginCheck(int userId, String userPassword);
-    public boolean addUser(Users users);
+    public boolean addUser(Users user);
 
 }
